@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.minerva.minervaui.button.Button
+        android:layout_width="143dp"
+        android:layout_height="58dp"
+        app:strokeColor="#C61111"
+        app:strokeWidth="@dimen/default_stroke_width"
+        app:text="Hello"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="131dp"
+        tools:layout_editor_absoluteY="94dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

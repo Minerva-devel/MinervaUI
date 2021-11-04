@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_stroke_color">#000000</color>
+    <color name="default_color">#ffffff</color>
+    <color name="default_gray">#BCB7B7</color>
+</resources>
